@@ -1,0 +1,121 @@
+--------Statistics--------
+
+Number of measurements per measurement point:
+ -100 - Atlantis: 1 measurements
+ -101 - Budapest - Duna: 3 measurements
+ -102 - Esztergom - Duna: 3 measurements
+ -123 - Budapest Vigadó tér: 2 measurements
+ -201 - Szeged - Tisza: 3 measurements
+ -202 - Tokaj - Tisza: 3 measurements
+ -456 - Szentendre: 1 measurements
+ -789 - Balassagyarmat - Ipoly: 3 measurements
+
+The average water level per measuring point, with the data of the highest and lowest measurements:
+ -100 - Atlantis:
+	Average Water Level: 1500 cm
+	Highest Water Level: 1500 cm
+	Lowest Water Level: 1500 cm
+
+ -101 - Budapest - Duna:
+	Average Water Level: 481,67 cm
+	Highest Water Level: 490 cm
+	Lowest Water Level: 475 cm
+
+ -102 - Esztergom - Duna:
+	Average Water Level: 461,67 cm
+	Highest Water Level: 470 cm
+	Lowest Water Level: 455 cm
+
+ -123 - Budapest Vigadó tér:
+	Average Water Level: 843,5 cm
+	Highest Water Level: 855 cm
+	Lowest Water Level: 832 cm
+
+ -201 - Szeged - Tisza:
+	Average Water Level: 346,67 cm
+	Highest Water Level: 355 cm
+	Lowest Water Level: 340 cm
+
+ -202 - Tokaj - Tisza:
+	Average Water Level: 310 cm
+	Highest Water Level: 320 cm
+	Lowest Water Level: 300 cm
+
+ -456 - Szentendre:
+	Average Water Level: 850 cm
+	Highest Water Level: 850 cm
+	Lowest Water Level: 850 cm
+
+ -789 - Balassagyarmat - Ipoly:
+	Average Water Level: 385,33 cm
+	Highest Water Level: 544 cm
+	Lowest Water Level: 200 cm
+
+Measurements per measuring point where the amount of precipitation is more than average:
+ -100 - Atlantis:
+	Average Precipitation: 5 mm
+	Above this: none
+
+ -101 - Budapest - Duna:
+	Average Precipitation: 0,57 mm
+	Above this:
+
+	 -2024. 09. 03. 6:00:00
+	 -Temperature: 11,8 °C
+	 -Precipitation: 1,5 mm
+	 -Measurement: 490 cm
+
+ -102 - Esztergom - Duna:
+	Average Precipitation: 0,83 mm
+	Above this:
+
+	 -2024. 09. 06. 6:00:00
+	 -Temperature: 12,1 °C
+	 -Precipitation: 2,2 mm
+	 -Measurement: 470 cm
+
+ -123 - Budapest Vigadó tér:
+	Average Precipitation: 0,3 mm
+	Above this:
+
+	 -2024. 08. 15. 20:00:00
+	 -Temperature: 21,2 °C
+	 -Precipitation: 0,5 mm
+	 -Measurement: 855 cm
+
+ -201 - Szeged - Tisza:
+	Average Precipitation: 0,43 mm
+	Above this:
+
+	 -2024. 09. 09. 6:00:00
+	 -Temperature: 13,7 °C
+	 -Precipitation: 0,9 mm
+	 -Measurement: 355 cm
+
+ -202 - Tokaj - Tisza:
+	Average Precipitation: 0,27 mm
+	Above this:
+
+	 -2024. 09. 12. 6:00:00
+	 -Temperature: 10,8 °C
+	 -Precipitation: 0,5 mm
+	 -Measurement: 320 cm
+
+ -456 - Szentendre:
+	Average Precipitation: 2,2 mm
+	Above this: none
+
+ -789 - Balassagyarmat - Ipoly:
+	Average Precipitation: 0,47 mm
+	Above this:
+
+	 -2024. 03. 15. 1:00:00
+	 -Temperature: 12 °C
+	 -Precipitation: 0,8 mm
+	 -Measurement: 544 cm
+
+	 -2024. 08. 15. 2:00:00
+	 -Temperature: 23 °C
+	 -Precipitation: 0,5 mm
+	 -Measurement: 200 cm
+

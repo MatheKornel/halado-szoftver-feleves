@@ -1,0 +1,52 @@
+﻿{
+  "MeasurementPoints": [
+    {
+      "PointName": "Szeged - Tisza",
+      "PointNumber": "201",
+      "Measurements": [
+        {
+          "Temperature": 15.0,
+          "Precipitation": 0.0,
+          "Measurement": 340,
+          "Date": "2024-09-07T06:00:00Z"
+        },
+        {
+          "Temperature": 14.2,
+          "Precipitation": 0.4,
+          "Measurement": 345,
+          "Date": "2024-09-08T06:00:00Z"
+        },
+        {
+          "Temperature": 13.7,
+          "Precipitation": 0.9,
+          "Measurement": 355,
+          "Date": "2024-09-09T06:00:00Z"
+        }
+      ]
+    },
+    {
+      "PointName": "Tokaj - Tisza",
+      "PointNumber": "202",
+      "Measurements": [
+        {
+          "Temperature": 12.0,
+          "Precipitation": 0.1,
+          "Measurement": 300,
+          "Date": "2024-09-10T06:00:00Z"
+        },
+        {
+          "Temperature": 11.5,
+          "Precipitation": 0.2,
+          "Measurement": 310,
+          "Date": "2024-09-11T06:00:00Z"
+        },
+        {
+          "Temperature": 10.8,
+          "Precipitation": 0.5,
+          "Measurement": 320,
+          "Date": "2024-09-12T06:00:00Z"
+        }
+      ]
+    }
+  ]
+}

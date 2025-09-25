@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono
+*.pidb
+*.userprefs
+
+# Visual Studio generated files
+.vs/
+
+# Test results
+TestResult*/
+*.VisualState.xml
+*.vsp
+*.vspscc
+*.vssscc
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Others
+*.log
+*.tlog
+*.cache
+*.pdb
+*.exe
+*.dll
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains IDE
+.idea/
+*.iml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user

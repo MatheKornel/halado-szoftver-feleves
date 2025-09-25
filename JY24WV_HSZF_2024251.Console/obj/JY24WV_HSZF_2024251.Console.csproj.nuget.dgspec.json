@@ -1,0 +1,341 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Console\\JY24WV_HSZF_2024251.Console.csproj": {}
+  },
+  "projects": {
+    "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Application\\JY24WV_HSZF_2024251.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Application\\JY24WV_HSZF_2024251.Application.csproj",
+        "projectName": "JY24WV_HSZF_2024251.Application",
+        "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Application\\JY24WV_HSZF_2024251.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj": {
+                "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj"
+              },
+              "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Persistence.MsSql\\JY24WV_HSZF_2024251.Persistence.MsSql.csproj": {
+                "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Persistence.MsSql\\JY24WV_HSZF_2024251.Persistence.MsSql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Console\\JY24WV_HSZF_2024251.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Console\\JY24WV_HSZF_2024251.Console.csproj",
+        "projectName": "JY24WV_HSZF_2024251.Console",
+        "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Console\\JY24WV_HSZF_2024251.Console.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Application\\JY24WV_HSZF_2024251.Application.csproj": {
+                "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Application\\JY24WV_HSZF_2024251.Application.csproj"
+              },
+              "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj": {
+                "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj"
+              },
+              "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Persistence.MsSql\\JY24WV_HSZF_2024251.Persistence.MsSql.csproj": {
+                "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Persistence.MsSql\\JY24WV_HSZF_2024251.Persistence.MsSql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ConsoleMenu-simple": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj",
+        "projectName": "JY24WV_HSZF_2024251.Model",
+        "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Persistence.MsSql\\JY24WV_HSZF_2024251.Persistence.MsSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Persistence.MsSql\\JY24WV_HSZF_2024251.Persistence.MsSql.csproj",
+        "projectName": "JY24WV_HSZF_2024251.Persistence.MsSql",
+        "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Persistence.MsSql\\JY24WV_HSZF_2024251.Persistence.MsSql.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Persistence.MsSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj": {
+                "projectPath": "D:\\Sulis dolgok\\2024-2025\\3 félév\\Haladó szoftver\\JY24WV_HSZF_2024251\\JY24WV_HSZF_2024251.Model\\JY24WV_HSZF_2024251.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

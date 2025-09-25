@@ -1,0 +1,35 @@
+﻿{
+  "MeasurementPoints": [
+    {
+      "PointName": "Budapest Vigadó tér",
+      "PointNumber": "123",
+      "Measurements": [
+        {
+          "Temperature": 23.2,
+          "Precipitation": 0.1,
+          "Measurement": 832,
+          "Date": "2024-08-15T00:00:00Z"
+        },
+        {
+          "Temperature": 21.2,
+          "Precipitation": 0.5,
+          "Measurement": 855,
+          "Date": "2024-08-15T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "PointName": "Szentendre",
+      "PointNumber": "456",
+      "Measurements": [
+        {
+          "Temperature": 35.2,
+          "Precipitation": 2.2,
+          "Measurement": 850,
+          "Date": "2024-08-23T22:00:00Z"
+        }
+      ]
+    }
+  ]
+}
+

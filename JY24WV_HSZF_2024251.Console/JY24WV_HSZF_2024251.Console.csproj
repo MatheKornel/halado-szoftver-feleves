@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="data1.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="data1.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ConsoleMenu-simple" Version="2.7.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JY24WV_HSZF_2024251.Application\JY24WV_HSZF_2024251.Application.csproj" />
+    <ProjectReference Include="..\JY24WV_HSZF_2024251.Model\JY24WV_HSZF_2024251.Model.csproj" />
+    <ProjectReference Include="..\JY24WV_HSZF_2024251.Persistence.MsSql\JY24WV_HSZF_2024251.Persistence.MsSql.csproj" />
+  </ItemGroup>
+
+</Project>
